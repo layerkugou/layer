@@ -10,3 +10,5 @@ gugou
 good
 yes
 ok
+thank
+yes
