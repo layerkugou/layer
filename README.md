@@ -12,3 +12,6 @@ yes
 ok
 thank
 yes
+oh
+no
+yes
