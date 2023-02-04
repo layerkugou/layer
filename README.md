@@ -15,3 +15,5 @@ yes
 oh
 no
 yes
+24
+4
